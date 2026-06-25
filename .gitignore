@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.pyc
+review_history.db
+.streamlit/
