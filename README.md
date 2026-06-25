@@ -17,8 +17,8 @@ An AI-powered code review tool built with Python, Streamlit, and Claude API.
 pip install -r requirements.txt
 ```
 
-### 2. Get your Claude API key
-Sign up at https://console.anthropic.com and create an API key.
+### 2. Get your Gemini API key
+Sign up at https://aistudio.google.com/api-keys?project=lively-iris-475417-t4.
 
 ### 3. Run the app
 ```bash
